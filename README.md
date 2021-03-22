@@ -1,4 +1,4 @@
 # Lab 2 - A Day Itinerary for Vancouver 
-(Interactive Storytelling Map)
+(Interactive Storytelling)
 
 ## Reflective Analysis
